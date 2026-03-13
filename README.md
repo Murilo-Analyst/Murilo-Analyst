@@ -1,60 +1,32 @@
-# 👋 Olá! Eu sou o Murilo Franco  
-### Desenvolvedor VBA | Analista de Dados | Power BI | Automação de Processos Financeiros
+# 👋 Olá, eu sou Murilo Franco
 
-Sou apaixonado por transformar rotinas manuais em **soluções inteligentes**, usando VBA, Power BI, SQL e automações que aumentam a produtividade na área financeira.  
-Trabalho criando dashboards, modelos analíticos, automações robustas e melhorias de processos para que empresas tomem decisões com mais rapidez e segurança.
+Desenvolvedor Backend em formação com foco em C# e .NET.
 
----
+Tenho experiência profissional na área financeira e administrativa, o que me permite compreender regras de negócio e processos financeiros com profundidade.
 
-## 🛠️ Tecnologias & Ferramentas
+Atualmente estou focado em desenvolvimento backend e construção de aplicações que envolvem lógica financeira e sistemas de negócios.
 
-### 💻 Linguagens & ETL
-- VBA / Excel Avançado  
-- Power Query (M)  
-- DAX  
-- SQL  
-- Python (iniciante aplicado a dados)
+## 🚀 Tecnologias
 
-### 📊 Business Intelligence
-- Power BI (Modelagem, DAX, KPIs, ETL)  
-- Construção de dashboards profissionais  
-- Automação de relatórios financeiros  
+- C#
+- .NET
+- SQL / SQLite
+- Programação Orientada a Objetos
+- Git e GitHub
 
-### 🧩 Ferramentas & Ecosistema Microsoft
-- Excel  
-- Power BI Service  
-- Access  
-- Office Scripts  
-- Power Automate (iniciante)  
-- Git & GitHub
+## 📚 Atualmente estudando
 
----
+- APIs REST com .NET
+- Arquitetura Backend
+- Boas práticas de desenvolvimento
 
-## 📂 Projetos em Destaque *(em criação no GitHub)*
+## 💼 Projeto em destaque
 
-### 🔧 Sistema de Automação Financeira em VBA  
-Automação de rotinas como conciliação, geração de relatórios, exportação em PDF e tratamento de dados.
+**Umbrella Bank System**
 
-### 📈 Dashboard Financeiro Power BI  
-Controle de fluxo de caixa, DRE, indicadores, performance mensal e visão estratégica.
+Simulador de operações bancárias desenvolvido em C# com funcionalidades de:
 
-### 🤖 Robô VBA de Conciliação Bancária  
-Ferramenta automatizada com validações, logs e integração entre múltiplas abas.
-
-### 🔄 Pipeline de Dados com Power Query  
-Transformação, padronização e limpeza de bases com processos repetíveis e otimizados.
-
----
-
-## 🎯 Objetivo Profissional
-Atuar como **Desenvolvedor/Analista de Dados | Automação | Power BI | VBA**, criando soluções que aumentam performance, reduzem erros e elevam a inteligência financeira das empresas.
-
-Sou movido por desafios e melhoria contínua.
-
----
-
-## 📬 Fale comigo
-- **LinkedIn:** *(coloque seu link aqui)*  
-- **E-mail:** *(seu email profissional)*  
-
-Obrigado por visitar meu perfil! 😄🚀
+- Consulta de saldo
+- Depósito
+- Saque
+- Simulação de empréstimo
