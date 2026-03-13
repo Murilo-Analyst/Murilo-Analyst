@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Murilo Franco
 
-Desenvolvedor Backend em formação com foco em C# e .NET.
+Desenvolvedor Backend com foco em C# e .NET.
 
 Tenho experiência profissional na área financeira e administrativa, o que me permite compreender regras de negócio e processos financeiros com profundidade.
 
